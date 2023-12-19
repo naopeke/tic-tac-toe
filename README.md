@@ -1,5 +1,5 @@
-# tic-tac-toe (tres en raya)  
-Description  |  Technologies  |  Installation  |  
+# Tic Tac Toe (Tres en Raya)  
+Description  |  Technologies  |  Installation  |  Author
 
 # Decription  
 Tradicional tic-tac-toe game made with JavaScript Vanilla  
